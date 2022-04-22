@@ -2,7 +2,7 @@
 
 ---
 
-**I’m a Software Developer currently using Javascript!** 
+**I’m a Front End Software Developer with Full Stack Knowledge** 
 
 📫 Feel free to contact me here, or follow/DM me on Twitter [@stacksantos](https://twitter.com/stacksantos)!
 <br>
