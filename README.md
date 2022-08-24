@@ -10,10 +10,6 @@
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stacksantos)](https://git.io/streak-stats)
-
-
-
 <details>
 <summary>:zap: Github Stat's</summary>
   
