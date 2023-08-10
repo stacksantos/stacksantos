@@ -4,7 +4,7 @@
 
 **I’m a Frond-End focused Full-Stack Software Engineer** 
 <p>
-📫 Feel free to contact me here, or follow on Twitter. <code>P.s. my twitter is mostly pics of my car & plants</code><br><br><a style="line-height: 0;" href="https://twitter.com/stacksantos" target="blank"><img src="https://img.shields.io/twitter/follow/stacksantos?logo=twitter&style=for-the-badge" alt="stacksantos" /></a></p>
+📫 Feel free to contact me here, or follow on Twitter.<br> <code>P.s. my twitter is mostly pics of my car & plants</code><br><br><a style="line-height: 0;" href="https://twitter.com/stacksantos" target="blank"><img src="https://img.shields.io/twitter/follow/stacksantos?logo=twitter&style=for-the-badge" alt="stacksantos" /></a></p>
 
 
 
