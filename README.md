@@ -1,1 +1,1 @@
-**I’m a Frond-End focused Full-Stack Software Engineer** 
+**all your base are belong to us** 
